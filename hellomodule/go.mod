@@ -1,4 +1,4 @@
-module GoProjects
+module hellomodule
 
 go 1.17
 
